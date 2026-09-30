@@ -1,0 +1,50 @@
+title: Kairi HUD Destiny
+originalAuthor: Zyga
+description: Replace HUD colors with a Kairi theme based on Destiny's embrace.
+game: kh1
+dependencies: 
+assets:
+- name: icon.png
+  method: copy
+  source:
+  - name: icon.png
+- name: mod.yml
+  method: copy
+  source:
+  - name: mod.yml
+- name: preview.png
+  method: copy
+  source:
+  - name: preview.png
+- name: remastered/command2/uitex.bin/-10780.dds
+  method: copy
+  source:
+  - name: remastered/command2/uitex.bin/-10780.dds
+- name: remastered/command2/uitex.bin/-12800.dds
+  method: copy
+  source:
+  - name: remastered/command2/uitex.bin/-12800.dds
+- name: remastered/command2/uitex.bin/-a2c0.dds
+  method: copy
+  source:
+  - name: remastered/command2/uitex.bin/-a2c0.dds
+- name: remastered/command2/uitex.bin/UK_uitex_bin10780.dds
+  method: copy
+  source:
+  - name: remastered/command2/uitex.bin/UK_uitex_bin10780.dds
+- name: remastered/command2/uitex.bin/backup/-10780.dds
+  method: copy
+  source:
+  - name: remastered/command2/uitex.bin/backup/-10780.dds
+- name: remastered/command2/uitex.bin/backup/-12800.dds
+  method: copy
+  source:
+  - name: remastered/command2/uitex.bin/backup/-12800.dds
+- name: remastered/command2/uitex.bin/backup/-a2c0.dds
+  method: copy
+  source:
+  - name: remastered/command2/uitex.bin/backup/-a2c0.dds
+- name: remastered/command2/uitex.bin/backup/UK_uitex_bin10780.dds
+  method: copy
+  source:
+  - name: remastered/command2/uitex.bin/backup/UK_uitex_bin10780.dds
